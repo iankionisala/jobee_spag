@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE facilities SYSTEM "http://www.matsim.org/files/dtd/facilities_v1.dtd">
+<facilities>
+
+<!-- ====================================================================== -->
+
+	<facility id="0" x="3.1287363944718488E7" y="1.4060148203393878E7">
+		<activity type="hospital">
+			<opentime day="wkday" start_time="08:00:00" end_time="19:00:00" />
+		</activity>
+
+	</facility>
+
+<!-- ====================================================================== -->
+
+	<facility id="1" x="3.1258053763833724E7" y="1.4051898943636538E7">
+		<activity type="hospital">
+			<opentime day="wkday" start_time="08:00:00" end_time="19:00:00" />
+		</activity>
+
+	</facility>
+
+<!-- ====================================================================== -->
+
+</facilities>
